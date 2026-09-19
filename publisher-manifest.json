@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "a039e4d9e2e93a314294c312",
+  "owner": "fqxpvfyvc",
+  "repo": "page-889284938a3e2ee9647c49a5",
+  "title": "机场推荐第一",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "889284938a3e2ee9647c49a5",
+      "a": "小花",
+      "b": "机场推荐第一",
+      "entity": "小花",
+      "brand": "机场推荐第一",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4427b1f0375c78c0d69a6394db2f013df03542fdb94131818353653408b3d1d9",
+      "content": {
+        "primary_entity": "小花",
+        "keyword1": "小花",
+        "keyword2": "机场推荐第一",
+        "content": {
+          "AI_DESCRIPTION": "，小花把线路、套餐与各平台客户端整理成清晰的选择路径。基础版每月 100GB 流量、支持 3 台设备，适合手机与电脑轻度使用；旗舰版每月 300GB、支持 5 台设备，带 IPLC 专线优化；团队版每月 1000GB、支持 20 台设备，适合多人协作。订阅按客户端文档导入，年付比月付更划算。",
+          "AI_HERO_SUBTITLE": "小花让订阅选择更简单",
+          "AI_HERO_INTRO": "小花是面向跨境网络需求的加速服务品牌，围绕套餐流量、设备数量与订阅周期给出明确选项。基础版满足日常浏览，旗舰版侧重流媒体与游戏，团队版面向多设备协作，可按照使用强度挑选。",
+          "AI_VISUAL_TITLE": "小花加速套餐选择",
+          "AI_HIGHLIGHT_1": "月付 15 元起选择灵活",
+          "AI_HIGHLIGHT_2": "五台设备旗舰版更划算",
+          "AI_HIGHLIGHT_3": "年付套餐节省长期开支",
+          "AI_FEATURES_TITLE": "小花特点",
+          "AI_FEATURES_INTRO": "从小花套餐配置出发，关注流量、设备与周期三个实际变量。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合轻度浏览，旗舰版 300GB 适合视频与游戏，团队版 1000GB 满足多设备。",
+          "AI_FEATURE_TITLE_2": "按设备定方案",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，可按手机、电脑与平板数量对应挑选。",
+          "AI_FEATURE_TITLE_3": "按周期算费用",
+          "AI_FEATURE_TEXT_3": "月付起步灵活，年付基础版 150 元、旗舰版 350 元、团队版 850 元，长期使用成本更低。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "小花订阅支持在常见代理客户端导入，可依照设备系统选择对应工具。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "小花三档套餐在流量、设备数与专线权益上逐步升级，月付价格从 15 元到 85 元，年付同步优惠。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从小花套餐选择到订阅导入，按三个步骤完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据每月所需流量与同时在线设备数量，在小花基础版、旗舰版与团队版之间确定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本满足小花订阅的导入条件，再准备对应的订阅地址。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照所用客户端的文档导入小花订阅链接，保存后更新节点即可开始使用。",
+          "AI_FAQ_INTRO": "套餐选择、设备数量与订阅导入。",
+          "AI_CLOSING_TITLE": "选好小花套餐",
+          "AI_CLOSING_TEXT": "按流量与设备数挑选合适档位，导入订阅即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备同时在线，适合手机加电脑的日常浏览与基础流媒体。流量或设备更多时再考虑升级。",
+          "AI_FAQ_ANSWER_2": "旗舰版每月 300GB、支持 5 台设备同时在线，含全节点原生流媒体解锁与 IPLC 专线游戏加速优化，适合有跨境游戏与高清流媒体需求的用户。",
+          "AI_FAQ_ANSWER_3": "年付价格更低：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，均可按月折算。短期试用可先选月付，确认合适后再转年付。",
+          "AI_FAQ_ANSWER_4": "Windows 可用 Clash Verge、v2rayN，macOS 可用 ClashX Meta，Android 可用 v2rayNG，iOS 需配合 Shadowrocket 等支持订阅的客户端，完成订阅导入即可使用。",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB、支持 20 台设备同时在线，提供 VIP 专属高带宽节点，并支持企业定制路由与专属客户经理服务，适合多人协作场景。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些用户？",
+          "AI_FAQ_QUESTION_2": "旗舰版相比基础版多了什么？",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选？",
+          "AI_FAQ_QUESTION_4": "不同设备应该用什么客户端？",
+          "AI_FAQ_QUESTION_5": "团队版能支持多少人一起用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "7a916c76a1d0c8c91bc9e0636e6cd32fd6a612b7e4ee3bd10485f35817654754",
+    "sitemap.xml": "ef50e904a21ab509e768ef4a3bfc3122cc71ecfcfa67b4306ad2b50323e4e967",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "c296dec587270f3056ca66eb81e4d9bfd4a4688b9532dd86bb632580f6d0fed6"
+}
